@@ -1,0 +1,10 @@
+C:\work\Meetings\MeetingAddIn\bin\Debug\MeetingAddIn.dll
+C:\work\Meetings\MeetingAddIn\bin\Debug\MeetingAddIn.pdb
+C:\work\Meetings\MeetingAddIn\bin\Debug\MeetingAddIn.dll.manifest
+C:\work\Meetings\MeetingAddIn\bin\Debug\MeetingAddIn.vsto
+C:\work\Meetings\MeetingAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\work\Meetings\MeetingAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\work\Meetings\MeetingAddIn\obj\Debug\MeetingAddIn.Properties.Resources.resources
+C:\work\Meetings\MeetingAddIn\obj\Debug\MeetingAddIn.csproj.GenerateResource.Cache
+C:\work\Meetings\MeetingAddIn\obj\Debug\MeetingAddIn.dll
+C:\work\Meetings\MeetingAddIn\obj\Debug\MeetingAddIn.pdb
