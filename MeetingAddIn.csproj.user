@@ -6,4 +6,8 @@
     <SupportUrlHistory />
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files %28x86%29\Microsoft Office\Office12\OUTLOOK.EXE</StartProgram>
+  </PropertyGroup>
 </Project>

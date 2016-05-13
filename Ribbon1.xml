@@ -4,9 +4,8 @@
         <tabs>
             <tab idMso="TabAddIns">
                 <group id="group1" label="group1">
-                    <dialogBoxLauncher>
-                      <button id="CallButton" label="Meet-up" onAction="OnCallCreateAppointment" visible="true"/>
-                    </dialogBoxLauncher>
+                  <button id="textButton" label="The button" enabled="true"/>
+                  <button id="CallButton" label="Meet-up" onAction="OnCallCreateAppointment" visible="true"/>
                 </group>
             </tab>
         </tabs>
