@@ -187,9 +187,18 @@
     can be found.
   -->
   <ItemGroup>
+    <Compile Include="FormRegion2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormRegion2.Designer.cs">
+      <DependentUpon>FormRegion2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <EmbeddedResource Include="FormRegion2.resx">
+      <DependentUpon>FormRegion2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
